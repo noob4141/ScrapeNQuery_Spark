@@ -1,6 +1,6 @@
 **_# ScrapeNQuery_Spark_**
-**** Project Overview****
 
+_ **Project Overview**_
 This project leverages the power of web scraping and Apache Spark to transform raw web data into actionable insights. By combining web scraping techniques with Spark's robust data processing capabilities, this tool provides an efficient pipeline for extracting, processing, and querying large volumes of data from the web.
 
 _**Key Features**_
